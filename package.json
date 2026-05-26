@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-      "dev": "nest dev"
+    "dev": "nest dev"
   },
   "author": "",
   "license": "MIT",
